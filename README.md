@@ -30,3 +30,9 @@
 <!--END_SECTION:activity-->
 
 </details>
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="swimmy4days's Github Stats" src="https://github-readme-stats.swimmy4days.vercel.app/api?username=swimmy4days&show_icons=true&hide_border=true" />
+
+</details>
