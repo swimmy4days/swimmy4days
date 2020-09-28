@@ -28,9 +28,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/jamesgeorge007/github-activity-readme/pull/24) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#23](https://github.com/jamesgeorge007/github-activity-readme/issues/23) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ❗️ Closed issue [#23](https://github.com/jamesgeorge007/github-activity-readme/issues/23) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#2](https://github.com/swimmy4days/brainfuck/issues/2) in [swimmy4days/brainfuck](https://github.com/swimmy4days/brainfuck)
+2. 🎉 Merged PR [#3](https://github.com/swimmy4days/brainfuck/pull/3) in [swimmy4days/brainfuck](https://github.com/swimmy4days/brainfuck)
+3. ❗️ Closed issue [#2](https://github.com/swimmy4days/brainfuck/issues/2) in [swimmy4days/brainfuck](https://github.com/swimmy4days/brainfuck)
 <!--END_SECTION:activity-->
 
 </details>
