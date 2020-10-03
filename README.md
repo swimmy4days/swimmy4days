@@ -28,9 +28,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/swimmy4days/github-pages-with-jekyll/pull/4) in [swimmy4days/github-pages-with-jekyll](https://github.com/swimmy4days/github-pages-with-jekyll)
-2. 💪 Opened PR [#4](https://github.com/swimmy4days/github-pages-with-jekyll/pull/4) in [swimmy4days/github-pages-with-jekyll](https://github.com/swimmy4days/github-pages-with-jekyll)
-3. 🎉 Merged PR [#2](https://github.com/swimmy4days/github-pages-with-jekyll/pull/2) in [swimmy4days/github-pages-with-jekyll](https://github.com/swimmy4days/github-pages-with-jekyll)
+1. ❗️ Closed issue [#1](https://github.com/swimmy4days/getting-started-github-apps/issues/1) in [swimmy4days/getting-started-github-apps](https://github.com/swimmy4days/getting-started-github-apps)
+2. 🗣 Commented on [#3](https://github.com/swimmy4days/intermediate-python-course/issues/3) in [swimmy4days/intermediate-python-course](https://github.com/swimmy4days/intermediate-python-course)
+3. 🗣 Commented on [#2](https://github.com/swimmy4days/intermediate-python-course/issues/2) in [swimmy4days/intermediate-python-course](https://github.com/swimmy4days/intermediate-python-course)
 <!--END_SECTION:activity-->
 
 </details>
