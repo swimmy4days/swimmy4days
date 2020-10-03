@@ -28,9 +28,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/swimmy4days/brainfuck/issues/2) in [swimmy4days/brainfuck](https://github.com/swimmy4days/brainfuck)
-2. 🎉 Merged PR [#3](https://github.com/swimmy4days/brainfuck/pull/3) in [swimmy4days/brainfuck](https://github.com/swimmy4days/brainfuck)
-3. ❗️ Closed issue [#2](https://github.com/swimmy4days/brainfuck/issues/2) in [swimmy4days/brainfuck](https://github.com/swimmy4days/brainfuck)
+1. 🎉 Merged PR [#4](https://github.com/swimmy4days/github-pages-with-jekyll/pull/4) in [swimmy4days/github-pages-with-jekyll](https://github.com/swimmy4days/github-pages-with-jekyll)
+2. 💪 Opened PR [#4](https://github.com/swimmy4days/github-pages-with-jekyll/pull/4) in [swimmy4days/github-pages-with-jekyll](https://github.com/swimmy4days/github-pages-with-jekyll)
+3. 🎉 Merged PR [#2](https://github.com/swimmy4days/github-pages-with-jekyll/pull/2) in [swimmy4days/github-pages-with-jekyll](https://github.com/swimmy4days/github-pages-with-jekyll)
 <!--END_SECTION:activity-->
 
 </details>
