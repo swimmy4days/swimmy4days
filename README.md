@@ -28,9 +28,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/swimmy4days/getting-started-github-apps/issues/1) in [swimmy4days/getting-started-github-apps](https://github.com/swimmy4days/getting-started-github-apps)
-2. 🗣 Commented on [#3](https://github.com/swimmy4days/intermediate-python-course/issues/3) in [swimmy4days/intermediate-python-course](https://github.com/swimmy4days/intermediate-python-course)
-3. 🗣 Commented on [#2](https://github.com/swimmy4days/intermediate-python-course/issues/2) in [swimmy4days/intermediate-python-course](https://github.com/swimmy4days/intermediate-python-course)
+1. ❗️ Closed issue [#2](https://github.com/swimmy4days/release-based-workflow/issues/2) in [swimmy4days/release-based-workflow](https://github.com/swimmy4days/release-based-workflow)
+2. ❗️ Closed issue [#1](https://github.com/swimmy4days/release-based-workflow/issues/1) in [swimmy4days/release-based-workflow](https://github.com/swimmy4days/release-based-workflow)
+3. ❗️ Closed issue [#1](https://github.com/swimmy4days/getting-started-github-apps/issues/1) in [swimmy4days/getting-started-github-apps](https://github.com/swimmy4days/getting-started-github-apps)
 <!--END_SECTION:activity-->
 
 </details>
