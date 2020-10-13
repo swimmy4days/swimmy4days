@@ -28,9 +28,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/swimmy4days/hello-github-actions/issues/3) in [swimmy4days/hello-github-actions](https://github.com/swimmy4days/hello-github-actions)
-2. 🎉 Merged PR [#2](https://github.com/swimmy4days/hello-github-actions/pull/2) in [swimmy4days/hello-github-actions](https://github.com/swimmy4days/hello-github-actions)
-3. 💪 Opened PR [#2](https://github.com/swimmy4days/hello-github-actions/pull/2) in [swimmy4days/hello-github-actions](https://github.com/swimmy4days/hello-github-actions)
+1. 🎉 Merged PR [#5](https://github.com/swimmy4days/github-actions-for-ci/pull/5) in [swimmy4days/github-actions-for-ci](https://github.com/swimmy4days/github-actions-for-ci)
+2. 💪 Opened PR [#5](https://github.com/swimmy4days/github-actions-for-ci/pull/5) in [swimmy4days/github-actions-for-ci](https://github.com/swimmy4days/github-actions-for-ci)
+3. 🎉 Merged PR [#2](https://github.com/swimmy4days/github-actions-for-ci/pull/2) in [swimmy4days/github-actions-for-ci](https://github.com/swimmy4days/github-actions-for-ci)
 <!--END_SECTION:activity-->
 
 </details>
