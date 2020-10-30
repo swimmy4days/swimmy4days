@@ -1,7 +1,7 @@
 ### Hi there, I'm Ido - aka swimmy4days 👋
 ## I'm a Student!
 
-- 🔭 I’m currently working on a developing my own OS!
+- 🔭 I’m currently working on a developing my own [OS](https://github.com/poormans-os/pmos)!
 - 🌱 I’m currently learning everything about low level programming
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
