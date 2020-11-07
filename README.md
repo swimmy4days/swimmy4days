@@ -28,9 +28,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/poormans-os/pmos/issues/5) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
-2. ❗️ Closed issue [#3](https://github.com/poormans-os/pmos/issues/3) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
-3. ❗️ Closed issue [#2](https://github.com/poormans-os/pmos/issues/2) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+1. ❗️ Closed issue [#7](https://github.com/poormans-os/pmos/issues/7) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+2. ❗️ Closed issue [#4](https://github.com/poormans-os/pmos/issues/4) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+3. ❗️ Closed issue [#6](https://github.com/poormans-os/pmos/issues/6) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
 <!--END_SECTION:activity-->
 
 </details>
