@@ -28,9 +28,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/swimmy4days/github-readme-stats/pull/1) in [swimmy4days/github-readme-stats](https://github.com/swimmy4days/github-readme-stats)
-2. 💪 Opened PR [#1](https://github.com/swimmy4days/github-readme-stats/pull/1) in [swimmy4days/github-readme-stats](https://github.com/swimmy4days/github-readme-stats)
-3. ❗️ Closed issue [#7](https://github.com/poormans-os/pmos/issues/7) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+1. ❗️ Closed issue [#9](https://github.com/poormans-os/pmos/issues/9) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+2. ❗️ Closed issue [#8](https://github.com/poormans-os/pmos/issues/8) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+3. 💪 Opened PR [#10](https://github.com/poormans-os/pmos/pull/10) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
 <!--END_SECTION:activity-->
 
 </details>
