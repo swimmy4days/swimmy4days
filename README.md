@@ -23,6 +23,14 @@
 <br />
 
 ---
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://github.com/swimmy4days/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/swimmy4days/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
