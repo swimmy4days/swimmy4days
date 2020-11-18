@@ -36,9 +36,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/poormans-os/pmos/pull/11) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
-2. 💪 Opened PR [#11](https://github.com/poormans-os/pmos/pull/11) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
-3. 🎉 Merged PR [#10](https://github.com/poormans-os/pmos/pull/10) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+1. ❗️ Closed issue [#13](https://github.com/poormans-os/pmos/issues/13) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+2. ❗️ Closed issue [#12](https://github.com/poormans-os/pmos/issues/12) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+3. 🎉 Merged PR [#11](https://github.com/poormans-os/pmos/pull/11) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
 <!--END_SECTION:activity-->
 
 </details>
