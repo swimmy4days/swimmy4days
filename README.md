@@ -36,9 +36,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/jstrieb/github-stats/pull/11) in [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
-2. ❗️ Closed issue [#13](https://github.com/poormans-os/pmos/issues/13) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
-3. ❗️ Closed issue [#12](https://github.com/poormans-os/pmos/issues/12) in [poormans-os/pmos](https://github.com/poormans-os/pmos)
+1. 🎉 Merged PR [#2](https://github.com/swimmy4days/github-readme-stats/pull/2) in [swimmy4days/github-readme-stats](https://github.com/swimmy4days/github-readme-stats)
+2. 💪 Opened PR [#2](https://github.com/swimmy4days/github-readme-stats/pull/2) in [swimmy4days/github-readme-stats](https://github.com/swimmy4days/github-readme-stats)
+3. 💪 Opened PR [#11](https://github.com/jstrieb/github-stats/pull/11) in [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 <!--END_SECTION:activity-->
 
 </details>
