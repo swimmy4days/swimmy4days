@@ -36,9 +36,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/swimmy4days/activity-box/pull/1) in [swimmy4days/activity-box](https://github.com/swimmy4days/activity-box)
-2. 🎉 Merged PR [#2](https://github.com/swimmy4days/activity-box/pull/2) in [swimmy4days/activity-box](https://github.com/swimmy4days/activity-box)
-3. 🎉 Merged PR [#2](https://github.com/swimmy4days/github-readme-stats/pull/2) in [swimmy4days/github-readme-stats](https://github.com/swimmy4days/github-readme-stats)
+1. 🎉 Merged PR [#1](https://github.com/swimmy4days/lichess-gist/pull/1) in [swimmy4days/lichess-gist](https://github.com/swimmy4days/lichess-gist)
+2. 💪 Opened PR [#1](https://github.com/swimmy4days/lichess-gist/pull/1) in [swimmy4days/lichess-gist](https://github.com/swimmy4days/lichess-gist)
+3. 🎉 Merged PR [#1](https://github.com/swimmy4days/activity-box/pull/1) in [swimmy4days/activity-box](https://github.com/swimmy4days/activity-box)
 <!--END_SECTION:activity-->
 
 </details>
