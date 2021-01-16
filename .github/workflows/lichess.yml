@@ -1,0 +1,25 @@
+
+name: Update gist with Liches.org Ratings
+on:
+  push:
+    branches: master
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Update gist
+        run: python lichess-gist/lichess-gist.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GIST_ID: 280898e70f6f8778b13558030464ecb7
+          LICHESS_USERNAME: swimmy4days
