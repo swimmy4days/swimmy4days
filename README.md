@@ -36,9 +36,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/swimmy4days/node-express-course/issues/1) in [swimmy4days/node-express-course](https://github.com/swimmy4days/node-express-course)
-2. 🎉 Merged PR [#1](https://github.com/poormans-os/bootloader/pull/1) in [poormans-os/bootloader](https://github.com/poormans-os/bootloader)
-3. 💪 Opened PR [#1](https://github.com/poormans-os/bootloader/pull/1) in [poormans-os/bootloader](https://github.com/poormans-os/bootloader)
+1. ❗️ Closed issue [#7](https://github.com/swimmy4days/node-express-course/issues/7) in [swimmy4days/node-express-course](https://github.com/swimmy4days/node-express-course)
+2. ❗️ Closed issue [#1](https://github.com/swimmy4days/node-express-course/issues/1) in [swimmy4days/node-express-course](https://github.com/swimmy4days/node-express-course)
+3. 🎉 Merged PR [#1](https://github.com/poormans-os/bootloader/pull/1) in [poormans-os/bootloader](https://github.com/poormans-os/bootloader)
 <!--END_SECTION:activity-->
 
 </details>
