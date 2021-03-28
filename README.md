@@ -36,9 +36,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/swimmy4days/php-course/issues/1) in [swimmy4days/php-course](https://github.com/swimmy4days/php-course)
-2. 🎉 Merged PR [#6](https://github.com/poormans-os/bootloader/pull/6) in [poormans-os/bootloader](https://github.com/poormans-os/bootloader)
-3. 💪 Opened PR [#6](https://github.com/poormans-os/bootloader/pull/6) in [poormans-os/bootloader](https://github.com/poormans-os/bootloader)
+1. ❗️ Closed issue [#7](https://github.com/swimmy4days/php-course/issues/7) in [swimmy4days/php-course](https://github.com/swimmy4days/php-course)
+2. 🗣 Commented on [#6](https://github.com/swimmy4days/php-course/issues/6) in [swimmy4days/php-course](https://github.com/swimmy4days/php-course)
+3. 🗣 Commented on [#4](https://github.com/swimmy4days/php-course/issues/4) in [swimmy4days/php-course](https://github.com/swimmy4days/php-course)
 <!--END_SECTION:activity-->
 
 </details>
