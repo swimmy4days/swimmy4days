@@ -36,9 +36,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/swimmy4days/continuous-integration-circle/pull/2) in [swimmy4days/continuous-integration-circle](https://github.com/swimmy4days/continuous-integration-circle)
-2. 💪 Opened PR [#2](https://github.com/swimmy4days/continuous-integration-circle/pull/2) in [swimmy4days/continuous-integration-circle](https://github.com/swimmy4days/continuous-integration-circle)
-3. ❗️ Closed issue [#7](https://github.com/swimmy4days/php-course/issues/7) in [swimmy4days/php-course](https://github.com/swimmy4days/php-course)
+1. 🎉 Merged PR [#2](https://github.com/swimmy4days/continuous-integration-travis/pull/2) in [swimmy4days/continuous-integration-travis](https://github.com/swimmy4days/continuous-integration-travis)
+2. 💪 Opened PR [#2](https://github.com/swimmy4days/continuous-integration-travis/pull/2) in [swimmy4days/continuous-integration-travis](https://github.com/swimmy4days/continuous-integration-travis)
+3. 🎉 Merged PR [#2](https://github.com/swimmy4days/continuous-integration-circle/pull/2) in [swimmy4days/continuous-integration-circle](https://github.com/swimmy4days/continuous-integration-circle)
 <!--END_SECTION:activity-->
 
 </details>
